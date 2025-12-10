@@ -15,4 +15,4 @@ The challenge of this project was learning more about the grid. I had some troub
 <img src="smallScreen.png" alt="Img grid on small screen" width="400px">
 
 ### Image Grid Big Screen
-<img src="bigScreen.png" alt="Img grid on big screen" width="400px">
+<img src="bigScreen.png" alt="Img grid on big screen" width="600px">
